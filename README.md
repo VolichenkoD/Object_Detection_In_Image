@@ -7,8 +7,8 @@
 * [coco_names.py](coco_names.py) в котором лежит список классов
 * Скрипт для обнаружения [detect_utils.py](detect_utils.py)
 * Обнаружение объектов на изображениях [detect_img.py](detect_img.py)
-* Архив с картинками input.zip
-* Папка outputs с конечным результатом
+* [Архив с картинками](input.zip)
+* [Папка с конечным результатом](outputs)
 
 
 
