@@ -12,4 +12,5 @@
 
 
 
-Примеры 
+Примеры обнаружение объектов 
+![Object Detection Sample](outputs/image_5.jpg)
