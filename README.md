@@ -12,7 +12,9 @@
 
 
 
-Примеры обнаружение объектов 
+Примеры обнаружение объектов: 
 ![Object Detection Sample](outputs/image_5.jpg)
 
 ![Object Detection Sample](outputs/image_3.jpg)
+
+![Object Detection Sample](outputs/image_2.jpg)
